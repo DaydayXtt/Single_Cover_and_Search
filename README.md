@@ -1,2 +1,3 @@
 # Single_Cover_and_Search
 单体覆盖式路径规划和目标探查
+运行single_search.m
